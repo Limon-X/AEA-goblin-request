@@ -27,4 +27,4 @@
 
 В ваш перевод могут вноситься правки!
 
-# Пример issue и форматирования находиться (тут)[https://github.com/Limon-X/AEA-goblin-request/issues/1]
+# Пример issue и форматирования находиться [тут](https://github.com/Limon-X/AEA-goblin-request/issues/1)
